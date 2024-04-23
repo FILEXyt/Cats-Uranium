@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/FILEXyt/Cats-Uranium/main/CatsUranium.lua"))()
